@@ -1,0 +1,121 @@
+🔗 FART PRANK URL EXAMPLES
+========================================
+
+Once you deploy to GitHub Pages, your base URL will be:
+https://YOUR_USERNAME.github.io/REPO_NAME/
+
+Replace YOUR_USERNAME with your GitHub username
+Replace REPO_NAME with your repository name
+
+
+📝 URL FORMATS
+========================================
+
+1. WITH A SPECIFIC NAME (skips input screen)
+   https://YOUR_USERNAME.github.io/REPO_NAME/?name=John
+   https://YOUR_USERNAME.github.io/REPO_NAME/?name=Sarah
+   https://YOUR_USERNAME.github.io/REPO_NAME/?name=Mike
+
+2. WITHOUT A NAME (shows input screen first)
+   https://YOUR_USERNAME.github.io/REPO_NAME/
+
+
+💡 EXAMPLE WITH REAL USERNAME
+========================================
+
+Let's say:
+- Your GitHub username is: laurensmith
+- Your repository name is: confidential-report
+
+Your URLs would be:
+
+For "John":
+https://laurensmith.github.io/confidential-report/?name=John
+
+For "Sarah":
+https://laurensmith.github.io/confidential-report/?name=Sarah
+
+Generic (they enter name):
+https://laurensmith.github.io/confidential-report/
+
+
+🔒 RECOMMENDED REPO NAMES (Won't Give Away the Prank)
+========================================
+
+✅ GOOD CHOICES:
+- confidential-report
+- urgent-findings
+- research-data
+- secret-docs
+- personnel-review
+- classified-info
+- important-files
+- secure-docs
+
+❌ AVOID THESE:
+- fart-prank (too obvious!)
+- francesca-prank (gives it away!)
+- joke-website (they'll know!)
+- prank-site (ruins the surprise!)
+
+
+📱 QR CODE URLS
+========================================
+
+Use the FULL URL with the name included:
+https://laurensmith.github.io/confidential-report/?name=Mike
+
+Generate QR code at:
+- qr-code-generator.com
+- qrcode-monkey.com
+- qr.io
+
+
+🔗 SHORTENING URLS
+========================================
+
+Long URL:
+https://laurensmith.github.io/confidential-report/?name=Alexandra
+
+Shortened with bit.ly:
+https://bit.ly/3kF9mN2
+
+Shortened with TinyURL:
+https://tinyurl.com/prank-alex
+
+Benefits of shortening:
+✓ Looks less suspicious
+✓ Easier to text/share
+✓ Hides the GitHub URL
+✓ Can customize the short link name
+
+
+🎯 NAMES WITH SPACES
+========================================
+
+If the name has a space, use %20:
+
+https://YOUR_USERNAME.github.io/REPO_NAME/?name=Mary%20Jane
+https://YOUR_USERNAME.github.io/REPO_NAME/?name=John%20Smith
+
+
+📋 TESTING CHECKLIST
+========================================
+
+Before sending to your victim, test these:
+
+□ Open without ?name= → Should see name input screen
+□ Enter a name → Should see loading screen → Should see prank
+□ Open with ?name=Test → Should skip input, go straight to loading
+□ Check all instances say "Test" (8 places in the prank)
+□ Try a long name (Christopher) → Should display properly
+□ Try on mobile device → Should work and look good
+□ Generate QR code → Scan it → Should work
+
+
+🎉 READY TO PRANK!
+========================================
+
+Once you've tested everything, you're ready to prank your friends!
+
+Remember: Make sure they have a sense of humor! 😄
